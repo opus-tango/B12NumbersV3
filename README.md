@@ -1,7 +1,7 @@
 # B12NumbersV3
 Release version 1.0.0.1 now available! see [releases](https://github.com/GShadow5/B12NumbersBeta1/releases) for a download
 
-Read the full write on my blog [here](http://localhost:4321/blog/portfolio/b12numbersv3?referrer=github)!
+Read the full write up on my blog [here](http://localhost:4321/blog/portfolio/b12numbersv3?referrer=github)!
 
 Note - changes after 1.0.0.1 are source code text only, and do not impact the release version
 
